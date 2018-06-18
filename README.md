@@ -14,12 +14,16 @@ It will work on python 2.7
 
 This is software to intrgrate ODEs, DDEs and Maps developed by Dr. Debabrata Biswas (debbisrs@gmail.com) with the kind and useful suggestions of Dr. Tanmoy Banerjee
 
-#To run the software
+# To run the software
 
 extract the "dynasyst_0.3.tar.gz" in the home directory and then
 
 python dynasyst.py
 
-#System Requirement:
+# System Requirement:
 
-python, python-numpy, matplotlib, Tkinter, pydelay
+python, python-numpy, python-scipy, matplotlib, Tkinter, pydelay
+
+# Link for pydelay:
+http://pydelay.sourceforge.net/
+
