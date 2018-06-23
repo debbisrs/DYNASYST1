@@ -27,3 +27,7 @@ python, python-numpy, python-scipy, matplotlib, Tkinter, pydelay
 # Link for pydelay:
 http://pydelay.sourceforge.net/
 
+# Video Tutorial:
+https://youtu.be/lD37maoV0jI
+
+
